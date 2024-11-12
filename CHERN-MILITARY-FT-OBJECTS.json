@@ -1,0 +1,49 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Wreck_BMP1",
+            "pos": [
+                13762.24609375,
+                40.874576568603519,
+                2908.4296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Wreck_BMP2",
+            "pos": [
+                13796.0,
+                43.3538932800293,
+                2933.2099609375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                13.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Wreck_T72_Chassis_DE",
+            "pos": [
+                13778.5771484375,
+                37.883453369140628,
+                2881.240966796875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        }
+    ]
+}

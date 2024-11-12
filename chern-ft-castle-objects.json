@@ -1,0 +1,79 @@
+{
+    "Objects": [
+        {
+            "name": "Land_City_Stand_News1",
+            "pos": [
+                13618.095703125,
+                45.148738861083987,
+                2937.562744140625
+            ],
+            "ypr": [
+                -39.963191986083987,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999986290931702,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Misc_WoodTable_Outdoor",
+            "pos": [
+                13629.00390625,
+                44.13998794555664,
+                2956.148193359375
+            ],
+            "ypr": [
+                -45.48772048950195,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999957084655762,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Misc_WoodTable_Indoor",
+            "pos": [
+                13641.3427734375,
+                44.446224212646487,
+                2942.8095703125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Bin",
+            "pos": [
+                13637.25390625,
+                44.37682342529297,
+                2968.83837890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Toilet_Dry",
+            "pos": [
+                13654.955078125,
+                45.90138244628906,
+                2943.24658203125
+            ],
+            "ypr": [
+                126.4898681640625,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        }
+    ]
+}
